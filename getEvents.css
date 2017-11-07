@@ -1,0 +1,19 @@
+.getEvents .NCell{
+	max-width: 500px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	white-space: nowrap;
+  	overflow: hidden;
+ 	text-overflow: ellipsis;
+	font-size: 30px;
+}
+
+.getEvents .DCell{
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	font-size: 30px;
+}
+.getEvents .small{
+	font-size: 4px;
+}
